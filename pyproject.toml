@@ -1,0 +1,9 @@
+[project]
+name = "game-rotation"
+version = "0.1.0"
+description = "Simple Script to make game rotations easier with a modified social golfer problem"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ortools>=9.15.6755",
+]
